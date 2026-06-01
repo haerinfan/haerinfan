@@ -1,11 +1,10 @@
-## Hi there 👋
+Hi there 👋
+I'm a first-year Computer Science & Engineering student at De La Salle University - Dasmariñas, born and raised in the Philippines. 🇵🇭 I'm on a journey to master coding and launch my career as an AI Systems Engineer. I'm currently building my portfolio and exploring the worlds of content creation, automation, and digital finance. Here's a bit more about me:
 
-I'm a first-year Computer Science & Engineering student at De La Salle University - Dasmariñas, born and raised in the Philippines. 🇵🇭 I'm on a journey to master coding and land a solid career in tech, while balancing my passion for gaming, sports, and music. Here's a bit more about me:
+🎮 Competitive Gamer: Former high-elo League of Legends player (Challenger, #1 Katarina in region) and Immortal rank in Valorant.
+🤖 Tech & Automation: Deeply interested in AI systems, automation workflows, and building scalable software solutions.
+📈 Markets: Actively exploring the space where tech meets finance, with a focus on trading and cryptocurrency.
+🎥 Content Creator: Currently venturing into video editing and content strategies for platforms like YouTube and Whop clipping.
+🏋️ Gym & Discipline: Committed to staying active and maintaining a consistent training routine in the gym.
 
-- 🎮 **League of Legends Challenger**: Peaked at 1207 LP with a regional rank of 15, and the **#1 Katarina** player in my region. I also play Valorant, where I've hit Immortal rank!
-- 🎶 **Music Lover**: Obsessed with New Jeans (Haerin bias) and enjoy a wide range of genres, including K-pop, rap, OPM, and Japanese music.
-- ⚙️ **Aspiring Developer**: Diving into the world of code, aiming to build skills and create impactful projects.
-- 🏀 **Sports Enthusiast**: I love working out and playing basketball and soccer.
-- 🤝 **Down-to-earth**: I stay grounded and always ready to connect with new people.
-
-I'm excited to learn, grow, and collaborate with others in tech. Feel free to reach out and connect!
+I'm excited to learn, grow, and collaborate on innovative projects. Feel free to reach out and connect!
