@@ -1,82 +1,112 @@
-<h1 align="center">Hey, I'm JD 👋</h1>
+<h1 align="center">Hey, I'm Yue 👋</h1>
 
 <p align="center">
-  3rd Year BS Computer Science @ <strong>De La Salle University – Dasmariñas</strong> <br/>
-  AI Developer and DevOps · Building tools that simplify complex systems
+  BS Computer Science @ <strong>De La Salle University – Dasmariñas</strong><br/>
+  Building with AI, automation, and software
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/john-daniel-ubungen/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/748075055006744656">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:jdubungen805@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Studying **BS Computer Science** at DLSU-D
-- 🤖 Passionate about **AI workflows**, **LLM-powered tools**, and **containerized full-stack apps**
-- 🛠️ Currently working on an **ZoneBot** using RAG + Gemini
-- 📚 Learning: React, Docker, Kubernetes, AI Workflows, and Agentic AI
-- ⚡ Fun fact: I got into coding because I love automation — if it can be simplified, it should be!
+I'm a Computer Science student from the Philippines working toward **AI Systems Engineering**.
+
+I like building things that solve actual problems — especially projects involving AI, automation, and systems that make complicated processes simpler. Right now, I'm mostly learning by building, breaking things, and figuring out how all the pieces fit together.
+
+- 🤖 Interested in **AI systems, agents, automation, and machine learning**
+- ⚙️ Learning more about **DevOps, cloud infrastructure, and deployment**
+- 📈 Exploring the overlap between **software, trading, and digital finance**
+- 🎥 Experimenting with **content creation, video editing, and automation**
+- 🎮 Peaked **Challenger #14 in League of Legends SEA**, **#1 Katarina in the region**, and **Immortal in Valorant**
+- 🏋️ Usually at the gym when I'm not behind a screen
 
 ---
 
-## 🚀 Tech Stack
+## Tech
 
 **Languages**
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,html,css&theme=dark" />
   </a>
 </p>
 
-**Frameworks & Libraries**
+**Tools**
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flask,fastapi,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
   </a>
 </p>
 
-**Tools & Platforms**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,figma,obsidian&theme=dark" />
-  </a>
-</p>
+**Currently exploring**
+
+`AI Agents` · `Machine Learning` · `Automation` · `DevOps` · `Cloud` · `CI/CD`
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🎮 [AI-Driven Steam Completionist Optimizer](https://github.com/JD-Code05)
-> Python · MySQL · React · Flask · BeautifulSoup · Docker · Kubernetes · Gemini AI
+### ⛽ Intelligent Fuel
 
-An AI-driven web application that helps Steam gamers plan and optimize their achievement hunting. Syncs your Steam library, scrapes wiki guides as **RAG** context via **BeautifulSoup**, and uses **Gemini 2.5 Flash** to generate personalized per-achievement guides — containerized with **Docker** and orchestrated via **Kubernetes**.
+An intelligent fuel monitoring system built around a simple question:
 
----
+**How much fuel is a trip actually going to use?**
 
-### 📈 [BitPredict: Digital Currency Insight Program](https://github.com/JD-Code05)
-> Python · CCXT API · Streamlit · NetworkX
+The project tracks fuel consumption and trip data to provide useful estimates instead of relying only on a vehicle's fuel gauge or manual calculations.
 
-A cryptocurrency insights tool that models price relationships between digital assets using **graph theory** and **NetworkX**. Pulls live market data from Binance via the **CCXT API** and visualizes trends across BTC, XRP, and ETH through an interactive **Streamlit** dashboard.
+I'm currently developing it further with intelligent analysis and prediction in mind.
 
 ---
 
-### 📺 [ZoneBot – AI-Driven YouTube Channel Assistant](https://github.com/JD-Code05)
-> React · FastAPI · PostgreSQL · Gemini AI · Docker · Kubernetes · yt-dlp
+### 🗺️ CourseMap
 
-A full-stack YouTube channel management dashboard with built-in AI content intelligence. Tracks channel analytics and recent uploads via the **YouTube Data API v3**, downloads and clips videos using **yt-dlp** and **ffmpeg**, and uses **Gemini AI** to generate titles, descriptions, and tags. Deployed with **Kubernetes** manifests backed by **PostgreSQL**.
+A degree progress and prerequisite checker that models a university curriculum as a **directed acyclic graph (DAG)**.
+
+It uses course prerequisites and completed subjects to determine what a student can take next, turning a curriculum flowchart into something the program can actually reason about.
 
 ---
 
-## 🤝 Let's Collaborate
+## What I'm Working Toward
 
-I'm open to **open-source projects**, **AI-powered tools**, and anything that makes life easier through automation. Feel free to reach out!
+I'm interested in becoming the kind of engineer who can work across the whole system — not just write the model or the frontend.
+
+That means learning how to:
+
+- build the software
+- add intelligence where it actually helps
+- automate the repetitive parts
+- deploy it
+- keep it running
+
+Long term, I'm aiming toward **AI Systems Engineering**.
+
+---
+
+## Outside of Code
+
+A lot of what I learned about improving at something came from competitive games.
+
+Reaching **Challenger #14 in League SEA** and **Immortal in Valorant** meant spending a lot of time reviewing mistakes, adapting quickly, and getting comfortable with being bad at something before getting better at it.
+
+I try to bring that same mindset into programming.
+
+Outside of that, I'm into **markets, content creation, gaming, and training**.
+
+---
+
+## Let's Build Something
+
+I'm always interested in interesting projects involving **AI, automation, software, or systems that solve real problems**.
+
+If you're building something cool, feel free to reach out.
