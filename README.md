@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/josh-patrick-reyes-0828311bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:joshpatrick.reyes@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -27,7 +27,7 @@ I like building things that solve actual problems — especially projects involv
 - 📈 Exploring the overlap between **software, trading, and digital finance**
 - 🎥 Experimenting with **content creation, video editing, and automation**
 - 🎮 Peaked **Challenger #14 in League of Legends SEA**, **#1 Katarina in the region**, and **Immortal in Valorant**
-- 🏋️ Usually at the gym when I'm not behind a screen
+- 🏋️ Outside of tech, I stay consistent with training and self-improvement
 
 ---
 
